@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 👨‍💻 Software Engineer / Software Developer / Kotlin
 
+Sou um desenvolvedor de software especializado em front-end na plataforma Android, com sólida experiência em Kotlin e Python. Tenho um forte histórico na criação de aplicativos móveis e desktop, utilizando frameworks modernos como Jetpack Compose e Kotlin Multiplatform para otimizar o desenvolvimento e a experiência do usuário. Além disso, possuo conhecimentos em C, C++, CSS, HTML e Javascript. Sou uma pessoa criativa, apaixonada por desafios e com um histórico de formação técnica em Eletrônica. Atualmente, estou cursando Bacharelado em Engenharia de Software pela Estácio, onde continuo a expandir minhas habilidades e conhecimentos.
 
 ### Tecnologias
 
